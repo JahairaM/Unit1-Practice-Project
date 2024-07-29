@@ -1,0 +1,131 @@
+### Step 2A
+/Users/jahairamyers
+
+### Step 2B
+jahairamyers@Jahairas-MacBook-Pro ~ % ls
+Applications		Library			PracticeProject1
+Desktop			Movies			Public
+Documents		Music			PycharmProjects
+Downloads		Pictures
+jahairamyers@Jahairas-MacBook-Pro ~ % cd
+jahairamyers@Jahairas-MacBook-Pro ~ % cd Desktop
+jahairamyers@Jahairas-MacBook-Pro Desktop % 
+
+### Step 2C
+jahairamyers@Jahairas-MacBook-Pro Desktop % ls
+Outfit Ideas
+Resume's and Cover Letter's
+Screenshot 2024-07-25 at 8.53.31 AM.png
+Screenshot 2024-07-29 at 11.29.14 AM.png
+Unit1-git-practice
+jahairamyers@Jahairas-MacBook-Pro Desktop % cd Unit1-git-practice 
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % 
+
+
+### Step 2D
+
+/Users/jahairamyers/Desktop/Unit1-git-practice
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % 
+
+
+### Step 2E
+
+
+### Step 2F
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % ls
+my-steps.txt
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % 
+
+### Step 2G
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % cd ..
+jahairamyers@Jahairas-MacBook-Pro Desktop % 
+
+
+
+### Step 2H
+
+/Users/jahairamyers/Desktop
+
+### Step 2I
+jahairamyers@Jahairas-MacBook-Pro Desktop % ls
+Outfit Ideas
+Resume's and Cover Letter's
+Screenshot 2024-07-25 at 8.53.31 AM.png
+Screenshot 2024-07-29 at 11.29.14 AM.png
+Unit1-git-practice
+jahairamyers@Jahairas-MacBook-Pro Desktop % 
+
+### Step 2J
+jahairamyers@Jahairas-MacBook-Pro Desktop % cd Unit1-git-practice 
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % 
+
+### Step 2K
+jahairamyers@Jahairas-MacBook-Pro Desktop % cd Unit1-git-practice 
+
+### Step 3A
+
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % mkdir veggies
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % mkdir meats
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % mkdir desserts
+### Step 3B
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % mv desserts sweets
+
+### Step 3C
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % mkdir proteins
+
+### Step 3D
+
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % mv meats proteins
+### Step 3E
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % cd veggies
+jahairamyers@Jahairas-MacBook-Pro veggies % touch carrot.txt
+jahairamyers@Jahairas-MacBook-Pro veggies % touch pea.txt
+
+### Step 3F
+jahairamyers@Jahairas-MacBook-Pro veggies % cd ..
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % cd sweets
+
+### Step 3G
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % cd sweets
+jahairamyers@Jahairas-MacBook-Pro sweets % touch cookie.txt
+
+### Step 3H
+jahairamyers@Jahairas-MacBook-Pro sweets % cd ..
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % touch thing.txt
+
+
+### Step 3I
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % cp thing.txt tofu.txt
+
+### Step 3J
+
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % mv tofu.txt proteins
+### Step 3K
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % touch crab.txt
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % mv crab.txt meats 
+
+### Step 3L
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % rm thing.txt
+
+### Step 3M
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % cp -r veggies plants
+
+### Step 3N
+
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % mkdir drinks
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % rm -r drinks
+
+### Step 4
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % git init
+Initialized empty Git repository in /Users/jahairamyers/Desktop/Unit1-git-practice/.git/
+jahairamyers@Jahairas-MacBook-Pro Unit1-git-practice % 
+
+
+### Step 5
+
+
+### Step 6
+
+
+### Step 7
+*** DO NOT RECORD STEP 7 ***
